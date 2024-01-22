@@ -33,7 +33,8 @@ Knjiga: [The C Programming Language](https://www.amazon.com/The-Programming-Lang
 Autori: Brian Kernighan, Dennis Ritchie
 
 
-[Zbirka zadataka sa rešenjima "Programiranje 2"](http://www.programiranje2.matf.bg.ac.rs/zbirka/p2_zbirka.pdf)
+Zbirka zadataka: [Zbirka zadataka sa rešenjima "Programiranje 2"](http://www.programiranje2.matf.bg.ac.rs/zbirka/p2_zbirka.pdf)
+Autori: dr Milena Vujošević Janičić, dr Jelena Graovac, dr Nina Radojičić Matić, Anđelka Zečević, Ana Spasić, dr Mirko Spasić
 
 ## Korisni linkovi
 
