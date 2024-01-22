@@ -19,6 +19,22 @@ U nastavku se nalazi spisak tema predstavljenih na kursu:
 - **Nedelja 12:** binarna pretraživačka stabla kao napredne strukture podataka;
 - **Nedelja 13:** binarna pretraživačka stabla kao napredne strukture podataka.
 
+## Literatura
+
+Knjiga: [Programiranje 1 (Osnove programiranja kroz programski jezik C)](http://poincare.matf.bg.ac.rs/~janicic//books/p1-b5.pdf)
+Autori: dr Predrag Janičić, dr Filip Marić
+
+ 
+Knjiga: [Programiranje 2 (Osnove programiranja kroz programski jezik C)](http://poincare.matf.bg.ac.rs/~janicic//books/p2-b5.pdf)
+Autori: dr Predrag Janičić, dr Filip Marić
+
+ 
+Knjiga: [The C Programming Language](https://www.amazon.com/The-Programming-Language-Brian-Kernighan/dp/0131103628)
+Autori: Brian Kernighan, Dennis Ritchie
+
+
+[Zbirka zadataka sa rešenjima "Programiranje 2"](http://www.programiranje2.matf.bg.ac.rs/zbirka/p2_zbirka.pdf)
+
 ## Korisni linkovi
 
 Sajtovi na kojima možete vežbati algoritamske zadatke iz oblasti koje pokrivamo kursom (a i iz mnogih drugih o kojima ćete tek učiti):
