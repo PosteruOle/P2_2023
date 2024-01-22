@@ -22,6 +22,7 @@ U nastavku se nalazi spisak tema predstavljenih na kursu:
 ## Korisni linkovi
 
 Sajtovi na kojima možete vežbati algoritamske zadatke iz oblasti koje pokrivamo kursom (a i iz mnogih drugih o kojima ćete tek učiti):
--- LeetCode (link ka sajtu možete pronaći [ovde](https://leetcode.com/));
--- HackerRank (link ka sajtu možete pronaći [ovde](https://www.hackerrank.com/));
--- CODEFORCES (link ka sajtu možete pronaći [ovde](https://codeforces.com/)).
+
+- LeetCode (link ka sajtu možete pronaći [ovde](https://leetcode.com/));
+- HackerRank (link ka sajtu možete pronaći [ovde](https://www.hackerrank.com/));
+- CODEFORCES (link ka sajtu možete pronaći [ovde](https://codeforces.com/)).
