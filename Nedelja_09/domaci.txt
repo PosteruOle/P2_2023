@@ -1,0 +1,20 @@
+1. Sa standardnog ulaza unose se dva cela broja a i b. 
+Napisati program koji na standardni izlaz ispisuje broj jedinica broja koji se dobija mnozenjem brojeva a i b.
+
+2. Sa standardnog ulaza unose se dva cela broja a i b.
+Napisati program koji na standardni izlaz ispisuje zbir brojeva a i b.
+Nije dozvoljeno koriscenje operatora +, -, ++ i --.
+
+3. Dve zabe su se zestoko posvadjale i zele da se sto vise udalje jedna od druge. 
+Zabe su do tada stajale na istom stapu i ukoliko zele da sa tog stapa predju na neki drugi 
+to mogu da urade ukoliko je stap na koji prelaze veci ili jednak po svojoj visini od stapa sa koga skacu.
+Kao ulaz programu se prosledjuje niz celih brojeva koji predstavljaju visinu stapova 
+i broj n koji predstavlja dimenziju tog niza.
+!!Ne pretpostavljati nista o tome na kom su stapu zabe stajale u momentu svadje!!
+Izracunati najvecu razdaljinu koju zabe mogu da naprave, krecuci se na opisani nacin.
+
+4. Kao ulaz programu se prosledjuje broj x koji predstavlja broj pregleda na koje pacijent mora da ode,
+broj k koji predstavlja broj dana izmedju svakog pacijentovog pregleda i niz celih brojeva koji
+predstavljaju cenu pregleda kod doktora (i-ti element niza predstavlja cenu pregleda kod doktora koja vazi za i-ti dan).
+Izracunati koliko najmanje novca pacijent mora da plati doktoru da bi otisao na x pregleda 
+sa po k dana razlike izmedju dva pregleda.
