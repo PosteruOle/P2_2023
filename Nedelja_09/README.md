@@ -1,6 +1,6 @@
 Tema: bitovski operatori.
 
-**Predstavljeni operatori: & (bitovska konjunkcija), | (bitovska disjunkcija), ^ (bitovska ekskluzivna disjunkcija), ~ (bitovska negacija), << (šiftovanje u levo), >> (šiftovanje u desno).**
+Predstavljeni operatori: & (bitovska konjunkcija), | (bitovska disjunkcija), ^ (bitovska ekskluzivna disjunkcija), ~ (bitovska negacija), << (šiftovanje u levo), >> (šiftovanje u desno).
 
 Spisak zadataka za ovu nedelju možete pronaći [ovde](https://raw.githubusercontent.com/MATFp2/p2i/main/cas_9/cas9.pdf).
 
